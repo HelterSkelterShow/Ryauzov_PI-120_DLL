@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateCalculator", "RateCalculator\RateCalculator.csproj", "{B1C4B308-302F-4FAD-BED7-FC76E6145DD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rate", "Rate\Rate.csproj", "{931FEF18-C23D-4C11-8A41-A845F5FEF018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1C4B308-302F-4FAD-BED7-FC76E6145DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C4B308-302F-4FAD-BED7-FC76E6145DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C4B308-302F-4FAD-BED7-FC76E6145DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C4B308-302F-4FAD-BED7-FC76E6145DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931FEF18-C23D-4C11-8A41-A845F5FEF018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931FEF18-C23D-4C11-8A41-A845F5FEF018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931FEF18-C23D-4C11-8A41-A845F5FEF018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931FEF18-C23D-4C11-8A41-A845F5FEF018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B655802-4450-474B-8D97-2CCE10B37519}
+	EndGlobalSection
+EndGlobal
