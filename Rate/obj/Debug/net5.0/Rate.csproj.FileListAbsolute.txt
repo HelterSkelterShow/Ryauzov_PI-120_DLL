@@ -1,0 +1,12 @@
+C:\Users\Sergey\source\repos\LT_DB_TASK\Ryauzov_PI-120_DLL\Rate\bin\Debug\net5.0\Rate.deps.json
+C:\Users\Sergey\source\repos\LT_DB_TASK\Ryauzov_PI-120_DLL\Rate\bin\Debug\net5.0\Rate.dll
+C:\Users\Sergey\source\repos\LT_DB_TASK\Ryauzov_PI-120_DLL\Rate\bin\Debug\net5.0\Rate.pdb
+C:\Users\Sergey\source\repos\LT_DB_TASK\Ryauzov_PI-120_DLL\Rate\obj\Debug\net5.0\Rate.csproj.AssemblyReference.cache
+C:\Users\Sergey\source\repos\LT_DB_TASK\Ryauzov_PI-120_DLL\Rate\obj\Debug\net5.0\Rate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\source\repos\LT_DB_TASK\Ryauzov_PI-120_DLL\Rate\obj\Debug\net5.0\Rate.AssemblyInfoInputs.cache
+C:\Users\Sergey\source\repos\LT_DB_TASK\Ryauzov_PI-120_DLL\Rate\obj\Debug\net5.0\Rate.AssemblyInfo.cs
+C:\Users\Sergey\source\repos\LT_DB_TASK\Ryauzov_PI-120_DLL\Rate\obj\Debug\net5.0\Rate.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\LT_DB_TASK\Ryauzov_PI-120_DLL\Rate\obj\Debug\net5.0\Rate.dll
+C:\Users\Sergey\source\repos\LT_DB_TASK\Ryauzov_PI-120_DLL\Rate\obj\Debug\net5.0\refint\Rate.dll
+C:\Users\Sergey\source\repos\LT_DB_TASK\Ryauzov_PI-120_DLL\Rate\obj\Debug\net5.0\Rate.pdb
+C:\Users\Sergey\source\repos\LT_DB_TASK\Ryauzov_PI-120_DLL\Rate\obj\Debug\net5.0\ref\Rate.dll
